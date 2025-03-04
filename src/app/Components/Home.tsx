@@ -18,7 +18,7 @@ const ProfileSection = () => {
                 </p>
                 <div className="social-icons">
                     <i>
-                        <a href="https://www.estherranithota123@gmail.com ">
+                        <a href="mailto:estherranithota123@gmail.com ">
                         <img 
                             src="https://cdn2.iconfinder.com/data/icons/New-Social-Media-Icon-Set-V11/512/email.png" 
                             alt="Email Icon" 
