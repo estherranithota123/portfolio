@@ -18,22 +18,28 @@ const ProfileSection = () => {
                 </p>
                 <div className="social-icons">
                     <i>
+                        <a href="https:/www.estherranithota123@gmail.com ">
                         <img 
                             src="https://cdn2.iconfinder.com/data/icons/New-Social-Media-Icon-Set-V11/512/email.png" 
                             alt="Email Icon" 
                         />
+                        </a>
                     </i>
                     <i>
+                        <a href="https:/www.linkedin.com/in/estherrani-thota-1a60a2349" target="-blank">
                         <img 
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl74JHLTYuF66t7yukctKxI_jBwEgzWilnHQ&s" 
                             alt="LinkedIn Icon" 
                         />
+                        </a>
                     </i>
                     <i>
+                        <a href="https://github.com/estherranithota6">
                         <img 
                             src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-orange.png" 
                             alt="GitHub Icon" 
                         />
+                        </a>
                     </i>
                 </div>
                 <button className="download-cv">Download CV</button>
