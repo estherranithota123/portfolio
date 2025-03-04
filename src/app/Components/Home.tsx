@@ -18,7 +18,7 @@ const ProfileSection = () => {
                 </p>
                 <div className="social-icons">
                     <i>
-                        <a href="https:/www.estherranithota123@gmail.com ">
+                        <a href="https://www.estherranithota123@gmail.com ">
                         <img 
                             src="https://cdn2.iconfinder.com/data/icons/New-Social-Media-Icon-Set-V11/512/email.png" 
                             alt="Email Icon" 
@@ -26,7 +26,7 @@ const ProfileSection = () => {
                         </a>
                     </i>
                     <i>
-                        <a href="https:/www.linkedin.com/in/estherrani-thota-1a60a2349" target="-blank">
+                        <a href="https://www.linkedin.com/in/estherrani-thota-1a60a2349">
                         <img 
                             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl74JHLTYuF66t7yukctKxI_jBwEgzWilnHQ&s" 
                             alt="LinkedIn Icon" 
