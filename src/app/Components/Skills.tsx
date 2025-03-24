@@ -63,7 +63,7 @@ const Skills = () => {
                 </div>
             </div>
     
-            <div className="center-wrapper">
+            {/* <div className="center-wrapper">
                 <div className="skill-card">
                     <img 
                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"  
@@ -72,7 +72,7 @@ const Skills = () => {
                     />
                     <h3 className="named-card">Python (Basics)</h3>
                 </div>
-            </div>
+            </div> */}
     
         </div>
     </section>

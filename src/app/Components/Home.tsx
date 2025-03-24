@@ -2,13 +2,13 @@ const ProfileSection = () => {
     return (
         <div className="profile-container" id="about">
         <div className="profile-content">
-            <div className="profile-image-container1">
+            {/* <div className="profile-image-container1">
                 <img 
                     src="../../rani.jpg" 
                     alt="Profile" 
                     className="profile-image1" 
                 />
-            </div>
+            </div> */}
             <div className="profile-text">
                 <h1>Hey I&apos;m <span className="highlight">EstherRani Thota</span></h1>
                 <h2>I&apos;m a <span className="highlight">Developer</span></h2>
