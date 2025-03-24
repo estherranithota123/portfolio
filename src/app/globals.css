@@ -705,7 +705,7 @@ input, textarea {
     border: 2px solid #b96e2e; 
     border-radius: 8px;
     background-color: #f4e2d1;
-  
+    
     font-size: 1rem;
   
   
@@ -713,7 +713,7 @@ input, textarea {
 
 
 button {
-    padding: 20px;
+    padding: 14px;
     border: none;
     border-radius: 25px;
     background-color: #d88a36;
@@ -721,7 +721,9 @@ button {
     font-size: 1.2rem;
     cursor: pointer;
     transition: all 0.3s ease;
-    width: 482px;
+    width: 100%;
+    margin-left: 4%;
+    
 }
 
 button:hover {
